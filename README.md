@@ -1,5 +1,4 @@
-## BIT-Iberoamericana
-#Desarrollador Web FullStack
+## BIT-Iberoamericana >> Desarrollador Web FullStack
 
 Auor: Daniel Francisco Ochoa Morón
 
